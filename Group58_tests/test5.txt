@@ -1,0 +1,19 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: No 
+
+## Description: Invalid function parameter
+
+int testfunc (int count1, int count2) 
+{
+    return count1 - count2;
+}
+
+void main()
+{
+    int invalidTest;
+    invalidTest = testfunc(2, "test");
+}

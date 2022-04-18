@@ -1,0 +1,15 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: No 
+
+## Description: Type mismatch during assignment
+
+void main(){
+    int x;
+    x = "test";
+    string test;
+    test = 10;
+}

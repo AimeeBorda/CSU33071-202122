@@ -1,0 +1,19 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: Yes
+
+## Description: Valid initialisation and return of declared int
+
+void main(){
+    
+}
+
+int test() {
+    int count;
+    count = 5 + 5;
+    return count;
+   
+}

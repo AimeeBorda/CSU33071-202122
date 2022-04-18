@@ -1,0 +1,11 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: Yes
+
+## Description: Recursive function calls
+void main(){
+  main();
+}
