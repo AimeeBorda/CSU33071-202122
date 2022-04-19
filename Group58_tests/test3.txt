@@ -1,0 +1,16 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: Yes 
+
+## Description: Valid if statement
+
+void main() {
+    int count;
+    count = 5;
+    if (count == 5) then{
+        count = count+1;
+    }
+}

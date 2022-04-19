@@ -1,0 +1,19 @@
+## Group 58
+
+## - Ciara Lynch
+## - Daithi Geary
+
+## Valid: No 
+
+## Description: Recursive struct
+
+void main(){
+    
+}
+
+struct Dog{
+    string name, 
+    int age,
+    Breed breed,
+    Dog d
+}
